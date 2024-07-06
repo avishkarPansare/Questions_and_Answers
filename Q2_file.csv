@@ -1,0 +1,6 @@
+id,event_name,outcome,details
+1,login,success,User logged in
+2,logout,success,User logged out
+3,login,error,Failed login attempt
+4,register,success,User registered
+5,login,success,User logged in
